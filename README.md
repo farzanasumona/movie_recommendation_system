@@ -5,6 +5,7 @@ This is a sample movie recommendation system built using Django, a high-level Py
 <h2>Features</h2>
 
 Movie recommendation: The system suggests movies based on NLP techniques applied to movie titles and genres.
+
 Movie search: Users can search for movies by specific movie name based on dataset.
 
 <h2>Dataset</h2>
