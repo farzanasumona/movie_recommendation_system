@@ -10,4 +10,4 @@ Movie search: Users can search for movies by specific movie name based on datase
 
 <h2>Dataset</h2>
 
-The system utilizes a pre-existing movie dataset containing movie information and metadata. The dataset includes movie Id, title with release year, genres.
+The system utilizes a pre-existing movie dataset containing movie information and metadata. The dataset includes movie Id, title with release year and genres.
