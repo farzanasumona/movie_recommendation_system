@@ -1,4 +1,4 @@
-<h1>Movie Recommendation System with Django</h1>
+<h1>Movie Recommendation System</h1>
 
 This is a sample movie recommendation system built using Django, a high-level Python web framework. The system provides movie recommendations based on a pre-existing dataset using Natural Language Processing (NLP) techniques.
 
