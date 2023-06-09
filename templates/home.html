@@ -1,0 +1,27 @@
+<!-- home.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommendation</title>
+</head>
+<body>
+    <h1>Movie Recommendation System</h1><br>
+
+    <form method="post" action="">
+        {% csrf_token %}
+        <label for="movie"><strong>Enter a movie name:</strong></label>
+        <input type="text" id="movie" name="movie">
+        <button type="submit">Submit</button>
+    </form>
+<br>
+    {% if recommended_movies %}
+        <h2>Recommended Movies:</h2>
+        <ul>
+            {% for movie in recommended_movies %}
+                <li>{{ movie }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+
+</html>
