@@ -1,6 +1,6 @@
 <h1>Movie Recommendation System</h1>
 
-This is a sample movie recommendation system built using Django, a high-level Python web framework. The system provides movie recommendations based on a pre-existing dataset using Natural Language Processing (NLP) techniques.
+This is a sample movie recommendation system built using Django, a high-level Python web framework. The system provides movie recommendations based on a pre-existing dataset using Natural Language Processing (NLP) techniques and it includes test case and is integrated with a machine learning model.
 
 <h2>Features</h2>
 
