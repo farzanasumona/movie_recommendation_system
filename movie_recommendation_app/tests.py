@@ -1,5 +1,4 @@
-from django.test import TestCase, RequestFactory
-from django.urls import reverse
+from django.test import TestCase
 from movie_recommendation_app.views import recommend
 
 
